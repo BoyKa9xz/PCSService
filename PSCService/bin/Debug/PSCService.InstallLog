@@ -1,0 +1,142 @@
+﻿アセンブリ 'C:\Users\admin\Desktop\Camera\PSCService\PSCService\bin\Debug\PSCService.exe' をインストールしています。
+該当するパラメーター:
+   logtoconsole = 
+   logfile = C:\Users\admin\Desktop\Camera\PSCService\PSCService\bin\Debug\PSCService.InstallLog
+   assemblypath = C:\Users\admin\Desktop\Camera\PSCService\PSCService\bin\Debug\PSCService.exe
+サービス 'Service8' をインストールしています...
+サービス 'Service8' は正常にインストールされました。
+EventLog ソース Service8 をログ Application に作成しています...
+サービス 'Service1' をインストールしています...
+EventLog ソース Service1 をログ Application に作成しています...
+アセンブリ 'C:\Users\admin\Desktop\Camera\PSCService\PSCService\bin\Debug\PSCService.exe' をロールバックしています。
+該当するパラメーター:
+   logtoconsole = 
+   logfile = C:\Users\admin\Desktop\Camera\PSCService\PSCService\bin\Debug\PSCService.InstallLog
+   assemblypath = C:\Users\admin\Desktop\Camera\PSCService\PSCService\bin\Debug\PSCService.exe
+ソース Service1 の前の状態にイベント ログを復元しています。
+ソース Service8 の前の状態にイベント ログを復元しています。
+サービス Service8 をシステムから削除しています...
+サービス 'Service8' は正常にシステムから削除されました。
+アセンブリ 'C:\Users\admin\Desktop\Camera\PSCService\PSCService\bin\Debug\PSCService.exe' をインストールしています。
+該当するパラメーター:
+   logtoconsole = 
+   logfile = C:\Users\admin\Desktop\Camera\PSCService\PSCService\bin\Debug\PSCService.InstallLog
+   assemblypath = C:\Users\admin\Desktop\Camera\PSCService\PSCService\bin\Debug\PSCService.exe
+サービス 'Service8' をインストールしています...
+サービス 'Service8' は正常にインストールされました。
+EventLog ソース Service8 をログ Application に作成しています...
+サービス '' をインストールしています...
+EventLog ソース  をログ Application に作成しています...
+アセンブリ 'C:\Users\admin\Desktop\Camera\PSCService\PSCService\bin\Debug\PSCService.exe' をロールバックしています。
+該当するパラメーター:
+   logtoconsole = 
+   logfile = C:\Users\admin\Desktop\Camera\PSCService\PSCService\bin\Debug\PSCService.InstallLog
+   assemblypath = C:\Users\admin\Desktop\Camera\PSCService\PSCService\bin\Debug\PSCService.exe
+ソース  の前の状態にイベント ログを復元しています。
+ソース Service8 の前の状態にイベント ログを復元しています。
+サービス Service8 をシステムから削除しています...
+サービス 'Service8' は正常にシステムから削除されました。
+アセンブリ 'C:\Users\admin\Desktop\Camera\PSCService\PSCService\bin\Debug\PSCService.exe' をインストールしています。
+該当するパラメーター:
+   logtoconsole = 
+   logfile = C:\Users\admin\Desktop\Camera\PSCService\PSCService\bin\Debug\PSCService.InstallLog
+   assemblypath = C:\Users\admin\Desktop\Camera\PSCService\PSCService\bin\Debug\PSCService.exe
+サービス 'Service8' をインストールしています...
+サービス 'Service8' は正常にインストールされました。
+EventLog ソース Service8 をログ Application に作成しています...
+アセンブリ 'C:\Users\admin\Desktop\Camera\PSCService\PSCService\bin\Debug\PSCService.exe' をコミットしています。
+該当するパラメーター:
+   logtoconsole = 
+   logfile = C:\Users\admin\Desktop\Camera\PSCService\PSCService\bin\Debug\PSCService.InstallLog
+   assemblypath = C:\Users\admin\Desktop\Camera\PSCService\PSCService\bin\Debug\PSCService.exe
+アセンブリ 'C:\Users\admin\Desktop\Camera\PSCService\PSCService\bin\Debug\PSCService.exe' をインストールしています。
+該当するパラメーター:
+   logtoconsole = 
+   logfile = C:\Users\admin\Desktop\Camera\PSCService\PSCService\bin\Debug\PSCService.InstallLog
+   assemblypath = C:\Users\admin\Desktop\Camera\PSCService\PSCService\bin\Debug\PSCService.exe
+サービス 'Service9' をインストールしています...
+サービス 'Service9' は正常にインストールされました。
+EventLog ソース Service9 をログ Application に作成しています...
+アセンブリ 'C:\Users\admin\Desktop\Camera\PSCService\PSCService\bin\Debug\PSCService.exe' をコミットしています。
+該当するパラメーター:
+   logtoconsole = 
+   logfile = C:\Users\admin\Desktop\Camera\PSCService\PSCService\bin\Debug\PSCService.InstallLog
+   assemblypath = C:\Users\admin\Desktop\Camera\PSCService\PSCService\bin\Debug\PSCService.exe
+アセンブリ 'C:\Users\admin\Desktop\Camera\PSCService\PSCService\bin\Debug\PSCService.exe' をインストールしています。
+該当するパラメーター:
+   logtoconsole = 
+   logfile = C:\Users\admin\Desktop\Camera\PSCService\PSCService\bin\Debug\PSCService.InstallLog
+   assemblypath = C:\Users\admin\Desktop\Camera\PSCService\PSCService\bin\Debug\PSCService.exe
+サービス 'Service10' をインストールしています...
+サービス 'Service10' は正常にインストールされました。
+EventLog ソース Service10 をログ Application に作成しています...
+アセンブリ 'C:\Users\admin\Desktop\Camera\PSCService\PSCService\bin\Debug\PSCService.exe' をコミットしています。
+該当するパラメーター:
+   logtoconsole = 
+   logfile = C:\Users\admin\Desktop\Camera\PSCService\PSCService\bin\Debug\PSCService.InstallLog
+   assemblypath = C:\Users\admin\Desktop\Camera\PSCService\PSCService\bin\Debug\PSCService.exe
+アセンブリ 'C:\Users\admin\Desktop\Camera\PSCService\PSCService\bin\Debug\PSCService.exe' をインストールしています。
+該当するパラメーター:
+   logtoconsole = 
+   logfile = C:\Users\admin\Desktop\Camera\PSCService\PSCService\bin\Debug\PSCService.InstallLog
+   assemblypath = C:\Users\admin\Desktop\Camera\PSCService\PSCService\bin\Debug\PSCService.exe
+サービス 'Service11' をインストールしています...
+サービス 'Service11' は正常にインストールされました。
+EventLog ソース Service11 をログ Application に作成しています...
+アセンブリ 'C:\Users\admin\Desktop\Camera\PSCService\PSCService\bin\Debug\PSCService.exe' をコミットしています。
+該当するパラメーター:
+   logtoconsole = 
+   logfile = C:\Users\admin\Desktop\Camera\PSCService\PSCService\bin\Debug\PSCService.InstallLog
+   assemblypath = C:\Users\admin\Desktop\Camera\PSCService\PSCService\bin\Debug\PSCService.exe
+アセンブリ 'C:\Users\admin\Desktop\Camera\PSCService\PSCService\bin\Debug\PSCService.exe' をインストールしています。
+該当するパラメーター:
+   logtoconsole = 
+   logfile = C:\Users\admin\Desktop\Camera\PSCService\PSCService\bin\Debug\PSCService.InstallLog
+   assemblypath = C:\Users\admin\Desktop\Camera\PSCService\PSCService\bin\Debug\PSCService.exe
+サービス 'Service12' をインストールしています...
+サービス 'Service12' は正常にインストールされました。
+EventLog ソース Service12 をログ Application に作成しています...
+アセンブリ 'C:\Users\admin\Desktop\Camera\PSCService\PSCService\bin\Debug\PSCService.exe' をコミットしています。
+該当するパラメーター:
+   logtoconsole = 
+   logfile = C:\Users\admin\Desktop\Camera\PSCService\PSCService\bin\Debug\PSCService.InstallLog
+   assemblypath = C:\Users\admin\Desktop\Camera\PSCService\PSCService\bin\Debug\PSCService.exe
+アセンブリ 'C:\Users\admin\Desktop\Camera\PSCService\PSCService\bin\Debug\PSCService.exe' をインストールしています。
+該当するパラメーター:
+   logtoconsole = 
+   logfile = C:\Users\admin\Desktop\Camera\PSCService\PSCService\bin\Debug\PSCService.InstallLog
+   assemblypath = C:\Users\admin\Desktop\Camera\PSCService\PSCService\bin\Debug\PSCService.exe
+サービス 'PCSservice' をインストールしています...
+サービス 'PCSservice' は正常にインストールされました。
+EventLog ソース PCSservice をログ Application に作成しています...
+アセンブリ 'C:\Users\admin\Desktop\Camera\PSCService\PSCService\bin\Debug\PSCService.exe' をコミットしています。
+該当するパラメーター:
+   logtoconsole = 
+   logfile = C:\Users\admin\Desktop\Camera\PSCService\PSCService\bin\Debug\PSCService.InstallLog
+   assemblypath = C:\Users\admin\Desktop\Camera\PSCService\PSCService\bin\Debug\PSCService.exe
+アセンブリ 'C:\Users\admin\Desktop\Camera\PSCService\PSCService\bin\Debug\PSCService.exe' をインストールしています。
+該当するパラメーター:
+   logtoconsole = 
+   logfile = C:\Users\admin\Desktop\Camera\PSCService\PSCService\bin\Debug\PSCService.InstallLog
+   assemblypath = C:\Users\admin\Desktop\Camera\PSCService\PSCService\bin\Debug\PSCService.exe
+サービス 'PCSservice' をインストールしています...
+サービス 'PCSservice' は正常にインストールされました。
+EventLog ソース PCSservice をログ Application に作成しています...
+アセンブリ 'C:\Users\admin\Desktop\Camera\PSCService\PSCService\bin\Debug\PSCService.exe' をコミットしています。
+該当するパラメーター:
+   logtoconsole = 
+   logfile = C:\Users\admin\Desktop\Camera\PSCService\PSCService\bin\Debug\PSCService.InstallLog
+   assemblypath = C:\Users\admin\Desktop\Camera\PSCService\PSCService\bin\Debug\PSCService.exe
+アセンブリ 'C:\Users\admin\Desktop\Camera\PSCService\PSCService\bin\Debug\PSCService.exe' をインストールしています。
+該当するパラメーター:
+   logtoconsole = 
+   logfile = C:\Users\admin\Desktop\Camera\PSCService\PSCService\bin\Debug\PSCService.InstallLog
+   assemblypath = C:\Users\admin\Desktop\Camera\PSCService\PSCService\bin\Debug\PSCService.exe
+サービス 'PCSservice' をインストールしています...
+EventLog ソース PCSservice をログ Application に作成しています...
+アセンブリ 'C:\Users\admin\Desktop\Camera\PSCService\PSCService\bin\Debug\PSCService.exe' をロールバックしています。
+該当するパラメーター:
+   logtoconsole = 
+   logfile = C:\Users\admin\Desktop\Camera\PSCService\PSCService\bin\Debug\PSCService.InstallLog
+   assemblypath = C:\Users\admin\Desktop\Camera\PSCService\PSCService\bin\Debug\PSCService.exe
+ソース PCSservice の前の状態にイベント ログを復元しています。
