@@ -1,0 +1,17 @@
+C:\Users\admin\Desktop\Camera\PSCService\PSCService\bin\Debug\PSCService.exe.config
+C:\Users\admin\Desktop\Camera\PSCService\PSCService\bin\Debug\PSCService.exe
+C:\Users\admin\Desktop\Camera\PSCService\PSCService\bin\Debug\PSCService.pdb
+C:\Users\admin\Desktop\Camera\PSCService\PSCService\bin\Debug\System.Configuration.ConfigurationManager.dll
+C:\Users\admin\Desktop\Camera\PSCService\PSCService\bin\Debug\System.Security.AccessControl.dll
+C:\Users\admin\Desktop\Camera\PSCService\PSCService\bin\Debug\System.Security.Permissions.dll
+C:\Users\admin\Desktop\Camera\PSCService\PSCService\bin\Debug\System.Security.Principal.Windows.dll
+C:\Users\admin\Desktop\Camera\PSCService\PSCService\bin\Debug\System.Configuration.ConfigurationManager.xml
+C:\Users\admin\Desktop\Camera\PSCService\PSCService\bin\Debug\System.Security.AccessControl.xml
+C:\Users\admin\Desktop\Camera\PSCService\PSCService\bin\Debug\System.Security.Permissions.xml
+C:\Users\admin\Desktop\Camera\PSCService\PSCService\bin\Debug\System.Security.Principal.Windows.xml
+C:\Users\admin\Desktop\Camera\PSCService\PSCService\obj\Debug\PSCService.ProjectInstaller.resources
+C:\Users\admin\Desktop\Camera\PSCService\PSCService\obj\Debug\PCSService.csproj.GenerateResource.cache
+C:\Users\admin\Desktop\Camera\PSCService\PSCService\obj\Debug\PCSService.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\Camera\PSCService\PSCService\obj\Debug\PCSService.csproj.CopyComplete
+C:\Users\admin\Desktop\Camera\PSCService\PSCService\obj\Debug\PSCService.exe
+C:\Users\admin\Desktop\Camera\PSCService\PSCService\obj\Debug\PSCService.pdb

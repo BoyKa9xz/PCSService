@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{A126CF59-A19C-4AAF-94EE-034C99A8C6C9}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>PSCService</RootNamespace>
-    <AssemblyName>PSCService</AssemblyName>
+    <RootNamespace>PCSService</RootNamespace>
+    <AssemblyName>PCSService</AssemblyName>
     <TargetFrameworkVersion>v4.6.1</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
