@@ -1,4 +1,7 @@
-﻿using System.Collections;
+﻿using PCSTimecardService;
+using System;
+using System.Collections;
+using System.Configuration.Install;
 
 namespace PSCService
 {
@@ -47,12 +50,14 @@ namespace PSCService
             this.serviceProcessInstaller1.Account = System.ServiceProcess.ServiceAccount.LocalSystem;
             this.serviceProcessInstaller1.Password = null;
             this.serviceProcessInstaller1.Username = null;
+            this.serviceProcessInstaller1.AfterInstall += new System.Configuration.Install.InstallEventHandler(this.serviceProcessInstaller1_AfterInstall);
             // 
             // serviceInstaller1
             // 
-            this.serviceInstaller1.Description = "PCSService";
-            this.serviceInstaller1.DisplayName = "PCSService";
-            this.serviceInstaller1.ServiceName = "PCSservice";
+            this.serviceInstaller1.Description = "PCSTimecardService";
+            this.serviceInstaller1.DisplayName = "PCSTimecardService";
+            this.serviceInstaller1.ServiceName = "PCSTimecardService";
+            this.serviceInstaller1.StartType = System.ServiceProcess.ServiceStartMode.Automatic;
             // 
             // ProjectInstaller
             // 
@@ -60,6 +65,43 @@ namespace PSCService
             this.serviceProcessInstaller1,
             this.serviceInstaller1});
 
+        }
+        static void Install(bool undo, string[] args)
+        {
+            try
+            {
+                Console.WriteLine(undo ? "uninstalling" : "installing");
+                using (AssemblyInstaller inst = new AssemblyInstaller(typeof(Program).Assembly, args))
+                {
+                    IDictionary state = new Hashtable();
+                    inst.UseNewContext = true;
+                    try
+                    {
+                        if (undo)
+                        {
+                            inst.Uninstall(state);
+                        }
+                        else
+                        {
+                            inst.Install(state);
+                            inst.Commit(state);
+                        }
+                    }
+                    catch
+                    {
+                        try
+                        {
+                            inst.Rollback(state);
+                        }
+                        catch { }
+                        throw;
+                    }
+                }
+            }
+            catch (Exception ex)
+            {
+                Console.Error.WriteLine(ex.Message);
+            }
         }
 
         #endregion
